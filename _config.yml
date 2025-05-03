@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_0050.JPG"
+  avatar           : "/images/IMG_0050jpg"
   name             : "Weiss Mehrabi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Lexingon, KY"
   employer         : "Centre College"
   uri              : "https://www.centre.edu/"
-  email            : "weiss.mehrabi@centre.edu" 
+  email            : "weiss.mehrabi@centre.edu"
 
   # Academic websites
   academia         : # URL
