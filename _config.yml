@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "IMG_0050.JPG"
-  name             : "Your Sidebar Name"
+  name             : "Weiss Mehrabi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Lexingon, KY"
+  employer         : "Centre College"
+  uri              : "https://www.centre.edu/"
+  email            : "weiss.mehrabi@centre.edu" 
 
   # Academic websites
   academia         : # URL
